@@ -14,7 +14,7 @@ To run this repository:
 - Run main.py.
 
 Contributors:
-- Jayden Chen (project owner)
+- Jayden Chen
 - Smruti Patil
 - Akshat Srivastava
 - Mariam Abu-Rahma
