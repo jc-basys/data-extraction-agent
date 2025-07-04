@@ -12,3 +12,10 @@ To run this repository:
 - Ensure that MySQL Workbench and MySQL Shell are installed and configured.
 - Insert user defined fields in main.py (API Keys, filepaths, patient_id, and database_config parameters)
 - Run main.py.
+
+Contributors:
+- Jayden Chen (project owner)
+- Smruti Patil
+- Akshat Srivastava
+- Mariam Abu-Rahma
+- Amina Tasleem
