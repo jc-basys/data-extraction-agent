@@ -15,7 +15,7 @@ To run this repository:
 
 Contributors:
 - Jayden Chen
-- Smruti Patil
 - Akshat Srivastava
+- Smruti Patil
 - Mariam Abu-Rahma
 - Amina Tasleem
